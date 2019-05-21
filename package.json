@@ -1,0 +1,27 @@
+{
+  "name": "vertumnus",
+  "version": "1.0.0",
+  "description": "Utils and constants for unit conversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeScho/vertumnus.git"
+  },
+  "keywords": [
+    "conversion",
+    "converter",
+    "units"
+  ],
+  "author": "JoeScho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeScho/vertumnus/issues"
+  },
+  "homepage": "https://github.com/JoeScho/vertumnus#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
